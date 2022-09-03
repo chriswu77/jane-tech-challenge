@@ -1,0 +1,22 @@
+{
+  "name": "junior-challenge-soccer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriswu77/jane-tech-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriswu77/jane-tech-challenge/issues"
+  },
+  "homepage": "https://github.com/chriswu77/jane-tech-challenge#readme",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
