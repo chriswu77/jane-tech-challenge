@@ -1,6 +1,8 @@
 const path = require('path')
 
-const inputFilePath = path.join(__dirname, 'input', 'sample-input.txt')
+const INPUT_FILENAME = 'sample-input.txt'
+
+const inputFilePath = path.join(__dirname, 'input', INPUT_FILENAME)
 const outputFilePath = path.join(__dirname, 'output', 'output.txt')
 
 exports.inputFilePath = inputFilePath
